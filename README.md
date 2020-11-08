@@ -3,8 +3,6 @@
 
 - 📝 I regulary write articles on [www.pierresblog.com](www.pierresblog.com)
 
-- ⚡ Fun fact **I think I am funny**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/itzpie" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="itzpie" height="30" width="40" /></a>
