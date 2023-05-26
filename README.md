@@ -19,7 +19,7 @@ A passionate (cross-platform) app developer from germany
 - Design tools: Figma
 
 ## Contact
-- 📫 Mail: [pierresucker.dev@gmail.com](mailto:pierresucker.dev@gmail.com)
+- 📫 Mail: [mail@pierresucker.com](mailto:mail@pierresucker.com)
 - 🖥️ Website: [pierresucker.com](https://pierresucker.com)
 
 ## Socials
