@@ -24,7 +24,7 @@ A passionate (cross-platform) app developer from germany
 
 ## Contact
 - 📫 Mail: [mail@pierresucker.com](mailto:mail@pierresucker.com)
-- 🖥️ Website: [pierresucker.com](https://www.pierresucker.com)
+- 🖥️ Website: [www.pierresucker.com](https://www.pierresucker.com)
 
 ## Socials
 - [LinkedIn](https://www.linkedin.com/in/pierresucker/)
