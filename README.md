@@ -20,7 +20,7 @@ A passionate (cross-platform) app developer from germany
 
 ## Apps:
 - Intervally - Interval Timer (📱 [iOS](https://apps.apple.com/de/app/intervally-intervall-timer/id6449355661) | 🤖 Android (planned)) - [Website](https://intervally.pierresucker.com)
-- Splitter - Web Split View (📱 iOS only) - [Website](https://splitter.pierresucker.com)
+- Splitter - Web Split View (📱 [iOS](https://apps.apple.com/de/app/splitter-web-split-view/id6450056965) only) - [Website](https://splitter.pierresucker.com)
 
 ## Contact
 - 📫 Mail: [mail@pierresucker.com](mailto:mail@pierresucker.com)
