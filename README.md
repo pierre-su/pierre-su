@@ -8,8 +8,7 @@ A passionate (cross-platform) app developer from germany
 - 🧑‍💻 Developed (cross-platform) apps for multiple years
 - 🎓 Studied [Intelligent Systems Design](https://www.hshl.de/en/studying/en-study-programs/en-bachelors-programs/en-intelligent-systems-design/) with the focus on mobile computing
 - 📚 Learning more about iOS Development with SwiftUI
-- 🛠️ Currently working on the android release of my new app Intervally - Intervall Timer (build with Flutter)
-
+- 🛠️ Currently working on a new version of my personal website
 ## Skills
 - Languages: Dart, Swift, python
 - Frameworks: Flutter 💙, SwiftUI 🧡, AR.js, ARCore, ARKit, MRTK Hololens
