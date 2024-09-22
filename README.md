@@ -8,7 +8,7 @@ A passionate (cross-platform) app developer from germany
 - 🧑‍💻 Developed (cross-platform) apps for multiple years
 - 🎓 Studied [Intelligent Systems Design](https://www.hshl.de/en/studying/en-study-programs/en-bachelors-programs/en-intelligent-systems-design/) with the focus on mobile computing
 - 📚 Learning more about iOS Development with SwiftUI
-- 🛠️ Currently working on a new version of my personal website
+- 🛠️ Currently in an idea phase for a new project
 ## Skills
 - Languages: Dart, Swift, python
 - Frameworks: Flutter 💙, SwiftUI 🧡, AR.js, ARCore, ARKit, MRTK Hololens
