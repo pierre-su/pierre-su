@@ -16,6 +16,7 @@ A passionate (cross-platform) app developer from germany
 - Database: Firebase DB (Realtime & Cloud Firestore), drift/moor, isar
 - Dev tools: Git, VSCode, Xcode, Postman/Thunderclient
 - Design tools: Figma
+- Little knowledge with WordPress
 
 ## Apps:
 - Intervally - Interval Timer (📱 [iOS](https://apps.apple.com/de/app/intervally-intervall-timer/id6449355661) | 🤖 [Android](https://play.google.com/store/apps/details?id=com.pierresucker.intervally)) - [Website](https://intervally.pierresucker.com)
