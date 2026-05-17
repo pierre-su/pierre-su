@@ -1,35 +1,32 @@
-# Hi there 👋🏻, I'm Pierre.
+# Hi, I'm Pierre. 👋
 
-```
-A passionate (cross-platform) app developer from germany
-```
+Software Engineer from Germany with a focus on cross-platform app development.  
+Running [Kivi Studio](https://kivistudio.de) as an indie studio on the side.
 
-## About me
-- 🧑‍💻 Developed (cross-platform) apps for multiple years
-- 🎓 Studied [Intelligent Systems Design](https://www.hshl.de/en/studying/en-study-programs/en-bachelors-programs/en-intelligent-systems-design/) with the focus on mobile computing
-- 📚 Learning more about iOS Development with SwiftUI
-- 🛠️ Currently working on:
-  - an app for [Meerlierettung](www.meerlierettung.de)
-  - working on a new version for an app summary website to replace the individual links for each app ([Development with Jaspr](https://jaspr.site))
- 
-## Skills
-- Languages: Dart, Swift, python
-- Frameworks: Flutter 💙, SwiftUI 🧡, AR.js, ARCore, ARKit, MRTK Hololens
-- Backend: Firebase
-- Database: Firebase DB (Realtime & Cloud Firestore), drift/moor, isar
-- Dev tools: Git, VSCode, Xcode, Postman/Thunderclient
-- Design tools: Figma
-- Little knowledge with WordPress
+## About
 
-## Apps:
-- Overview: [apps.pierresucker.com](https://apps.pierresucker.com)
-- Intervally - Interval Timer (📱 [iOS](https://apps.apple.com/de/app/intervally-intervall-timer/id6449355661) | 🤖 [Android](https://play.google.com/store/apps/details?id=com.pierresucker.intervally)) - [Website](https://intervally.pierresucker.com)
-- Splitter - Web Split View (📱 [iOS](https://apps.apple.com/de/app/splitter-web-split-view/id6450056965) only) - [Website](https://splitter.pierresucker.com)
+- Software Engineer by education — specializing in cross-platform app development with Flutter
+- Studied [Intelligent Systems Design](https://www.hshl.de/en/studying/en-study-programs/en-bachelors-programs/en-intelligent-systems-design/) at HSHL, with a focus on mobile computing
+- Working professionally in software development, also active in no-code/low-code platform environments
+- Indie studio: [Kivi Studio](https://kivistudio.de) — apps & games
 
-## Contact
-- 📫 Mail: [mail@pierresucker.com](mailto:mail@pierresucker.com)
-- 🖥️ Website: [www.pierresucker.com](https://www.pierresucker.com)
+## Tech stack
 
-## Socials
-- [LinkedIn](https://www.linkedin.com/in/pierresucker/)
-- [Xing](https://www.xing.com/profile/Pierre_Sucker/)
+**Languages:** Dart · Swift · Python · GDScript  
+**Frameworks:** Flutter · SwiftUI · Godot · Jaspr  
+**Backend & DB:** Firebase · Supabase · Cloud Firestore  
+**Dev & design:** Git · VS Code · Xcode · Figma · Penpot · Postman
+**AI tools:** Claude · GitHub Copilot · ChatGPT
+
+## Links:
+
+💼 [LinkedIn](https://www.linkedin.com/in/pierresucker/)
+
+📫 [pierre@kivistudio.de](mailto:pierre@kivistudio.de)
+
+🪨 [Kivi Studio](https://kivistudio.de)
+
+🌐 [pierre.kivistudio.de](https://pierre.kivistudio.de)  
+
+📱 [All Apps](https://apps.kivistudio.de)
+  
